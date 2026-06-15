@@ -1,4 +1,4 @@
-name: Testing Actions
+name: Profile Actions
 on: workflow_dispatch
 jobs:
   Testing:
